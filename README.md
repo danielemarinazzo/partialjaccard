@@ -6,5 +6,6 @@ The methodology and the results are reported in
 
 Beyond pairwise network similarity: exploring Mediation and Suppression between networks
 Lucas Lacasa, Sebastiano Stramaglia, and Daniele Marinazzo
+https://arxiv.org/abs/2012.09006
 
 if you use this code, please cite the paper.
