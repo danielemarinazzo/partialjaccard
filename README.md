@@ -10,3 +10,11 @@ Lucas Lacasa, Sebastiano Stramaglia, and Daniele Marinazzo
 https://arxiv.org/abs/2012.09006
 
 if you use this code, please cite the paper.
+
+The data are reported in matlab format for reproducibility and convenience, the original formats, with links for proper citation, can be found at
+
+https://manliodedomenico.com/data.php
+
+and
+
+https://www.nature.com/articles/s41597-019-0325-x
